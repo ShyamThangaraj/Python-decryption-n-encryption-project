@@ -10,8 +10,7 @@ This Python script implements three different ciphers: Caesar cipher, Atbash cip
   - [Atbash Cipher](#atbash-cipher)
   - [Custom-Made Cipher](#custom-made-cipher)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ## Introduction
 
